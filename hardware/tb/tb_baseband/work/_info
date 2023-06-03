@@ -1,0 +1,383 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/TD/workspace/meteorolite/hardware/tb/Signal_Processing/prj
+vADC_2CH
+Z0 !s110 1653817296
+!i10b 1
+!s100 :Z86SIRL7cNT<h`PNJ@z=2
+I]W`eJ@GY8Ya6?C[]gUR`T0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband
+w1650627515
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v
+Z3 L0 14
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1653817296.182000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@d@c_2@c@h
+vAHB_BASEBAND_CONTROL
+R0
+!i10b 1
+!s100 5A5@TMHoz]z_cCaG=H:UF3
+I9EoG657lan;Xe?jQ6e<Ym1
+R1
+R2
+w1653626016
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v
+L0 22
+R4
+r1
+!s85 0
+31
+!s108 1653817296.479000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v|
+!i113 0
+R5
+n@a@h@b_@b@a@s@e@b@a@n@d_@c@o@n@t@r@o@l
+vCIC_DOWN_S4
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 B_24>5OhI>mG:1F?fmQ`91
+I:F5HZGb?GhOE_FRnG`dVV3
+R2
+w1650719173
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v
+L0 2
+R4
+!s108 1653817296.624000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v|
+!i113 0
+R5
+n@c@i@c_@d@o@w@n_@s4
+vclock_divider
+Z6 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1653817694
+!i10b 1
+!s100 9ke8igF=HhhhUnTTzTl[G1
+I0hc7VH[JL0:EJ4lfoRbnh1
+R1
+!s105 clock_divider_sv_unit
+S1
+R2
+w1649235073
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1653817694.315000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vCordic
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Jz]:KbY4bTd5[OFPahhG`1
+IblP_gJK;K8N1=SciJNa8h2
+R2
+Z8 w1586951759
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v
+L0 3
+R4
+!s108 1653817296.870000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v|
+!i113 0
+R5
+n@cordic
+vFIR_1M_17K
+Z9 !s110 1653817297
+!i10b 1
+!s100 GXgQaejegXZ6dT7CRM5_02
+Ic7C@zS579DkOO:Zn@E`z]2
+R1
+R2
+w1650713646
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v
+L0 46
+R4
+r1
+!s85 0
+31
+!s108 1653817297.167000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v|
+!i113 0
+R5
+n@f@i@r_1@m_17@k
+vFIR_1M_4K
+R9
+!i10b 1
+!s100 ;kUB@gn__ZTGEYD_9l8N[2
+IaPmdoi1=bnI^DRMCQZ@A]2
+R1
+R2
+w1650718368
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v
+Z10 L0 45
+R4
+r1
+!s85 0
+31
+!s108 1653817297.015000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v|
+!i113 0
+R5
+n@f@i@r_1@m_4@k
+vfir_50_3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Y@gN7:kS=?6UdbXCj73^91
+I@2HzHaMc;o2P5<fjF71YL0
+R2
+w1653212267
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v
+L0 44
+R4
+!s108 1653817297.287000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v|
+!i113 0
+R5
+vFIR_50K_4K
+R9
+!i10b 1
+!s100 >2j<Z^ad_o`j]Uaj8ilb03
+IC2iSEM?6KAnh[OEeP:?jg0
+R1
+R2
+w1650721570
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v
+R10
+R4
+r1
+!s85 0
+31
+!s108 1653817297.436000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v|
+!i113 0
+R5
+n@f@i@r_50@k_4@k
+vFIR_50K_5K_LPF
+R9
+!i10b 1
+!s100 fo4Y`@HQDP^?CTC_on8oz3
+IIjZ84cNkMgTAFTY`UA9:J3
+R1
+R2
+R8
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v
+R10
+R4
+r1
+!s85 0
+31
+!s108 1653817297.568000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v|
+!i113 0
+R5
+n@f@i@r_50@k_5@k_@l@p@f
+vMovingAvg_Filter
+R6
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4FnFg:5UkjGPn0m8[e6?Z1
+Ia]Ie[0i53XeY`_;oUdUhQ0
+!s105 MovingAvg_Filter_sv_unit
+S1
+R2
+w1653122511
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv
+L0 17
+R4
+!s108 1653817297.731000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv|
+!i113 0
+R7
+n@moving@avg_@filter
+vRSSI
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 :b_EnVkPF=f7[ACPoN]RX2
+IkkH79Hc9IeV4=@Lb;KWi>1
+R2
+w1653625372
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v
+L0 13
+R4
+!s108 1653817297.907000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v|
+!i113 0
+R5
+n@r@s@s@i
+vtb_TVR
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I`bQhnWX8dhZ@;VEMjiV<3
+IS_:IiL_obZ13405T^D=2=0
+R2
+w1653819062
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v
+R3
+R4
+!s108 1653819493.541000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v|
+!i113 0
+R5
+ntb_@t@v@r
+vTVR_Audio_Handle
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 n:fg[5;if4_:E;=?fk7033
+I_Jme^@h<06;Q8>;]Ho`Qk0
+R2
+w1653224779
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v
+L0 2
+R4
+!s108 1653817298.055000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v|
+!i113 0
+R5
+n@t@v@r_@audio_@handle
+vTVR_DAC_PWM
+Z11 !s110 1653817298
+!i10b 1
+!s100 5h1^`[kmDATM`iP]=3ZL_2
+Ic?CTHXDc8W]f3mAV6QQL91
+R1
+R2
+w1650704544
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1653817298.182000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v|
+!i113 0
+R5
+n@t@v@r_@d@a@c_@p@w@m
+vTVR_Demod
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 YMiWnoj]3RQzL^:LzUAeI3
+IVfX>[_f^bJY127?gbh^L90
+R2
+w1653580451
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v
+L0 1
+R4
+!s108 1653817298.306000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v|
+!i113 0
+R5
+n@t@v@r_@demod
+vTVR_pwm_test
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 AfWe72fK<<3PiI`_5HcFe1
+IKJ;TC`NbDQ7TPgA3Zfn973
+R2
+w1653576277
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v
+L0 12
+R4
+!s108 1653817298.450000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v|
+!i113 0
+R5
+n@t@v@r_pwm_test
+vTVR_top
+R11
+!i10b 1
+!s100 <X2`hAi[oNL0T>490GOWR2
+ILi5RUl?jO6dSFU<zEoRe93
+R1
+R2
+w1653625395
+8E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v
+FE:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1653817298.569000
+!s107 E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v|
+!i113 0
+R5
+n@t@v@r_top

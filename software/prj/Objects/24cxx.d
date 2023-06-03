@@ -1,0 +1,12 @@
+.\objects\24cxx.o: ..\hardware\AT24Cxx\24cxx.c
+.\objects\24cxx.o: ..\hardware\AT24Cxx\24cxx.h
+.\objects\24cxx.o: ..\hardware\SYS\sys.h
+.\objects\24cxx.o: ..\cmsis\Device\meteo\Include\meteo.h
+.\objects\24cxx.o: D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\24cxx.o: ..\cmsis\CMSIS\Include\core_cm0.h
+.\objects\24cxx.o: ..\cmsis\CMSIS\Include\core_cmInstr.h
+.\objects\24cxx.o: ..\cmsis\CMSIS\Include\core_cmFunc.h
+.\objects\24cxx.o: ..\cmsis\Device\meteo\Include\system_meteo.h
+.\objects\24cxx.o: ..\sys\system_gpio\system_gpio.h
+.\objects\24cxx.o: ..\sys\system_usart\system_usart.h
+.\objects\24cxx.o: ..\sys\delay\delay.h

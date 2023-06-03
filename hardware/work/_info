@@ -1,0 +1,391 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/TD/workspace/meteorolite/hardware
+vas_fifo
+Z1 !s110 1648779371
+!i10b 1
+!s100 [NzVk82[mmO5jcoD2JR;m0
+IDV6d`A5O:ioo]VZ^3jVIN1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1648437376
+8E:/TD/workspace/meteorolite/hardware/ip/as_fifo_sim.v
+FE:/TD/workspace/meteorolite/hardware/ip/as_fifo_sim.v
+L0 5
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1648779371.030000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/as_fifo_sim.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/as_fifo_sim.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vcic_d
+Z5 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+DXx4 work 11 cic_package 0 22 PCe26G?C8cWUWP3MKeHB^2
+R1
+!i10b 1
+!s100 gMB;R`X[2dlgKXYHG91o^3
+I73emD1jM^WK@>@bR<SE5A0
+R2
+!s105 cic_d_sv_unit
+S1
+R0
+Z6 w1299470905
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_d.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/cic_d.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.123000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_d.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_d.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vcic_i
+R5
+R1
+!i10b 1
+!s100 @N1[Z=gYQcHN`3jV=Y0FN1
+IZXz13?17?<ZFXB8oDOb8K1
+R2
+!s105 cic_i_sv_unit
+S1
+R0
+R6
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_i.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/cic_i.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.246000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_i.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_i.sv|
+!i113 0
+R7
+Xcic_package
+R5
+R1
+!i10b 1
+!s100 MB:6kCaK`eY1>7TcmG<Ug2
+IPCe26G?C8cWUWP3MKeHB^2
+VPCe26G?C8cWUWP3MKeHB^2
+S1
+R0
+R6
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_package.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/cic_package.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.356000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_package.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/cic_package.sv|
+!i113 0
+R7
+vcomb
+R5
+R1
+!i10b 1
+!s100 KcL8[5V0U>03lB?k`=WE70
+Igd4WZG_7>0OA<IL`:<TBz1
+R2
+!s105 comb_sv_unit
+S1
+R0
+w1648711434
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/comb.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/comb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.460000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/comb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/comb.sv|
+!i113 0
+R7
+vdecimate
+Z8 !s110 1648779372
+!i10b 1
+!s100 16ZmEVKj7M]X<B<jYelWG1
+IiQF0O8YkJO^?4NOL00RYR3
+R2
+R0
+w1648658863
+8E:/TD/workspace/meteorolite/hardware/rtl/baseband/decimate.v
+FE:/TD/workspace/meteorolite/hardware/rtl/baseband/decimate.v
+Z9 L0 13
+R3
+r1
+!s85 0
+31
+!s108 1648779372.156000
+!s107 E:/TD/workspace/meteorolite/hardware/rtl/baseband/decimate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/rtl/baseband/decimate.v|
+!i113 0
+R4
+vdemodulation
+R8
+!i10b 1
+!s100 >`_;h8BP;L?:k5za[ChMo3
+IkXMNBN?1Pl0I8aR00T`DN3
+R2
+R0
+w1648731197
+8E:/TD/workspace/meteorolite/hardware/rtl/baseband/demodulation.v
+FE:/TD/workspace/meteorolite/hardware/rtl/baseband/demodulation.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1648779372.256000
+!s107 E:/TD/workspace/meteorolite/hardware/rtl/baseband/demodulation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/rtl/baseband/demodulation.v|
+!i113 0
+R4
+vdff
+R8
+!i10b 1
+!s100 ecYn7e66cVCGeoZILjSC`1
+IOJYf3^DioYETIQfW@hUh[0
+R2
+R0
+w1648724484
+8E:/TD/workspace/meteorolite/hardware/ip/dff.v
+FE:/TD/workspace/meteorolite/hardware/ip/dff.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779372.053000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/dff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/dff.v|
+!i113 0
+R4
+vdownsampler
+R5
+R1
+!i10b 1
+!s100 <V_2PPX=<X1IbJkzKXT`Y3
+IdAfhIzcbXd8mS@4P3_=fO0
+R2
+!s105 downsampler_sv_unit
+S1
+R0
+w1648711412
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/downsampler.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/downsampler.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.560000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/downsampler.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/downsampler.sv|
+!i113 0
+R7
+vdsp
+R8
+!i10b 1
+!s100 k7zANc46]c0Ei=Ac<UnS91
+I1XON>b@2kL^=K>]QR]N2b0
+R2
+R0
+w1648725055
+8E:/TD/workspace/meteorolite/hardware/ip/dsp_sim.v
+FE:/TD/workspace/meteorolite/hardware/ip/dsp_sim.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1648779372.740000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/dsp_sim.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/dsp_sim.v|
+!i113 0
+R4
+vfifo_control
+R8
+!i10b 1
+!s100 ^LPK9N1S?4;<>[>Vf<EjX3
+I3]i39OzimJO3^WW9VkQZ^0
+R2
+R0
+w1648459987
+8E:/TD/workspace/meteorolite/hardware/rtl/baseband/fifo_control.v
+FE:/TD/workspace/meteorolite/hardware/rtl/baseband/fifo_control.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1648779372.356000
+!s107 E:/TD/workspace/meteorolite/hardware/rtl/baseband/fifo_control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/rtl/baseband/fifo_control.v|
+!i113 0
+R4
+vfir
+R1
+!i10b 1
+!s100 G?:n1G5[ROm5gJi<GeXL03
+IJO36]2]@5eYI3@_cHDbF?0
+R2
+R0
+w1648736599
+8E:/TD/workspace/meteorolite/hardware/ip/FIR/fir.v
+FE:/TD/workspace/meteorolite/hardware/ip/FIR/fir.v
+L0 15
+R3
+r1
+!s85 0
+31
+!s108 1648779371.763000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/FIR/fir.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/FIR/fir.v|
+!i113 0
+R4
+vintegrator
+R5
+R1
+!i10b 1
+!s100 nc1U`>@JBhXQlRALL01z43
+IZof0FjzELDXL?6SC>;YTW1
+R2
+!s105 integrator_sv_unit
+S1
+R0
+w1648710875
+8E:/TD/workspace/meteorolite/hardware/ip/CIC/integrator.sv
+FE:/TD/workspace/meteorolite/hardware/ip/CIC/integrator.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.673000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/CIC/integrator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/CIC/integrator.sv|
+!i113 0
+R7
+vmult_cell
+R1
+!i10b 1
+!s100 8E]i^aFX?[Oj77n9zIE@L0
+IN@BgFVT5Fe9QdAaoW?S4H3
+R2
+R0
+w1648650373
+8E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_cell.v
+FE:/TD/workspace/meteorolite/hardware/ip/FIR/mult_cell.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.866000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_cell.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_cell.v|
+!i113 0
+R4
+vmult_man
+R1
+!i10b 1
+!s100 CNhDLdCRTc4X4?5O6if2:3
+I1AC08adgWfN3hhHeG7`bz0
+R2
+R0
+w1648650401
+8E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_man.v
+FE:/TD/workspace/meteorolite/hardware/ip/FIR/mult_man.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1648779371.949000
+!s107 E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_man.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/ip/FIR/mult_man.v|
+!i113 0
+R4
+vSignal_Acquisition
+R8
+!i10b 1
+!s100 jSke:nh_eY1OUaiI`bhoL1
+Iz9^GhQ82a2jgNZbg?1aMR2
+R2
+R0
+w1648539134
+8E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Acquisition.v
+FE:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Acquisition.v
+L0 12
+R3
+r1
+!s85 0
+31
+!s108 1648779372.459000
+!s107 E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Acquisition.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Acquisition.v|
+!i113 0
+R4
+n@signal_@acquisition
+vSignal_Processing
+R8
+!i10b 1
+!s100 TmXN5]lSS<To]8HXjIhe]1
+I644j^Q8VLQh280_e9iWCo3
+R2
+R0
+w1648779324
+8E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Processing.v
+FE:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Processing.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1648779372.543000
+!s107 E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Processing.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/rtl/baseband/Signal_Processing.v|
+!i113 0
+R4
+n@signal_@processing
+vtb_Signal_Processing
+R8
+!i10b 1
+!s100 I:W7XEG;L9oPmBRoEnDz30
+IBIG;ZS1SWX=5`:TPk0[nK1
+R2
+R0
+w1648690418
+8E:/TD/workspace/meteorolite/hardware/tb/Signal_Processing/rtl/tb_Signal_Processing.v
+FE:/TD/workspace/meteorolite/hardware/tb/Signal_Processing/rtl/tb_Signal_Processing.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1648779372.646000
+!s107 E:/TD/workspace/meteorolite/hardware/tb/Signal_Processing/rtl/tb_Signal_Processing.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/TD/workspace/meteorolite/hardware/tb/Signal_Processing/rtl/tb_Signal_Processing.v|
+!i113 0
+R4
+ntb_@signal_@processing

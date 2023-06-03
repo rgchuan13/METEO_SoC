@@ -1,0 +1,127 @@
+E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/AHB_BASEBAND_CONTROL.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHB_BASEBAND_CONTROL
+
+Top level modules:
+	AHB_BASEBAND_CONTROL
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Demod.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TVR_Demod
+
+Top level modules:
+	TVR_Demod
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/CIC_DOWN_S4.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module CIC_DOWN_S4
+
+Top level modules:
+	CIC_DOWN_S4
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/Cordic.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Cordic
+
+Top level modules:
+	Cordic
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TVR_top
+
+Top level modules:
+	TVR_top
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/fir_50_3.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fir_50_3
+
+Top level modules:
+	fir_50_3
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_17K.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FIR_1M_17K
+
+Top level modules:
+	FIR_1M_17K
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_Audio_Handle.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TVR_Audio_Handle
+
+Top level modules:
+	TVR_Audio_Handle
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv {1 {vlog -work work -vopt -sv -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/ip/clock_divider.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/RSSI.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RSSI
+
+Top level modules:
+	RSSI
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/ADC_2CH.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ADC_2CH
+
+Top level modules:
+	ADC_2CH
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_1M_4K.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FIR_1M_4K
+
+Top level modules:
+	FIR_1M_4K
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/tb/tb_baseband/tb_TVR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_TVR
+
+Top level modules:
+	tb_TVR
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv {1 {vlog -work work -vopt -sv -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/MovingAvg_Filter.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MovingAvg_Filter
+
+Top level modules:
+	MovingAvg_Filter
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_4K.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FIR_50K_4K
+
+Top level modules:
+	FIR_50K_4K
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_DAC_PWM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TVR_DAC_PWM
+
+Top level modules:
+	TVR_DAC_PWM
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/TVR_pwm_test.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TVR_pwm_test
+
+Top level modules:
+	TVR_pwm_test
+
+} {} {}} E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v {1 {vlog -work work -vopt -stats=none E:/TD/workspace/meteorolite_uart1/meteorolite_uart/hardware/rtl/TVR/FIR_50K_5K_LPF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FIR_50K_5K_LPF
+
+Top level modules:
+	FIR_50K_5K_LPF
+
+} {} {}}

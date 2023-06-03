@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSPConfig>
+    <GeneralConfig>
+        <Type>EG_LOGIC_MULT</Type>
+        <Device>EG4S20BG256</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>mult</inst>
+    </GeneralConfig>
+    <SR_Mode>
+        <sr_mode></sr_mode>
+    </SR_Mode>
+    <Implement>
+        <implement>1</implement>
+    </Implement>
+    <Input_Format>
+        <input_format>UNSIGNED</input_format>
+    </Input_Format>
+    <Input_Option>
+        <input_a>8</input_a>
+        <input_b>8</input_b>
+    </Input_Option>
+    <Register_Option>
+        <reg_a>false</reg_a>
+        <reg_b>false</reg_b>
+        <reg_p>false</reg_p>
+    </Register_Option>
+</DSPConfig>

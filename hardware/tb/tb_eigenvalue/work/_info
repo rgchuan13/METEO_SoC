@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/SOFTWARE_PRUDUCT/MODELSIM/examples
+veigenvalue
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 :LYBLfi@o6d^]S6Yz18WR1
+IDTG7o?VH2>XE0?XN4z[Sl1
+Z1 dF:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue
+w1656749345
+8F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/eigenvalue.v
+FF:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/eigenvalue.v
+L0 13
+Z2 OL;L;10.4;61
+!s108 1656749397.125000
+!s107 F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/eigenvalue.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/eigenvalue.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vMovingAvg_Filter
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 4FnFg:5UkjGPn0m8[e6?Z1
+I@=]KmdKVNWk2BQaz1mKhh1
+!s105 MovingAvg_Filter_sv_unit
+S1
+R1
+w1653122512
+8F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv
+FF:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv
+L0 17
+R2
+!s108 1656749397.276000
+!s107 F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@moving@avg_@filter
+vtb_eigenvalue
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 oJE27i:BZfG]^5G:b97<32
+ICPDP>`cH46UYW87J^=OQf0
+R1
+w1656748985
+8F:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v
+FF:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v
+L0 5
+R2
+!s108 1656749397.210000
+!s107 F:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v|
+!i113 0
+R3

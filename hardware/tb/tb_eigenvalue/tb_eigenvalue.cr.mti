@@ -1,0 +1,15 @@
+F:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v {1 {vlog -work work -vopt -stats=none F:/ciciec/repository/meteorolite_V1.0/hardware/tb/tb_eigenvalue/work/tb_eigenvalue.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_eigenvalue
+
+Top level modules:
+	tb_eigenvalue
+
+} {} {}} F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv {1 {vlog -work work -vopt -sv -stats=none F:/ciciec/repository/meteorolite_V1.0/hardware/rtl/TVR/MovingAvg_Filter.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MovingAvg_Filter
+
+Top level modules:
+	MovingAvg_Filter
+
+} {} {}}

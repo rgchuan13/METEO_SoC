@@ -1,0 +1,165 @@
+Dependencies for Project 'hello', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\cmsis\Device\meteo\Include\startup_meteo.s)(0x6291D8C1)(--cpu Cortex-M0 --li -g --apcs=interwork -I ..\cmsis\Device\meteo\Include-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include--pd "__UVISION_VERSION SETA 537" --pd "_RTE_ SETA 1" --pd "ARMCM0 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_meteo.lst --xref -o .\objects\startup_meteo.o --depend .\objects\startup_meteo.d)
+F (..\hello\Source\LED.c)(0x624553D4)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (..\hello\Include\LED.h)(0x62280ABD)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+F (..\hello\Source\main.c)(0x6301DA88)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\hello\Include\LED.h)(0x62280ABD)
+I (..\sys\delay\delay.h)(0x62428435)
+I (..\hardware\MSI001\MSI001.h)(0x6281FE8F)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\hardware\AT24Cxx\24cxx.h)(0x628B5869)
+I (..\hardware\QN8027\qn8027.h)(0x628F659A)
+I (..\hardware\IIC\myiic.h)(0x624E8A70)
+I (..\hardware\Nixie_tube\Nixie_tube.h)(0x6291FB8F)
+I (..\hardware\KEYBOARD\keyboard.h)(0x6291D253)
+I (..\hardware\OLED\oled.h)(0x6291E1D4)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (..\hardware\LCD\lcd.h)(0x62F9AFE4)
+F (..\cmsis\Device\meteo\Source\system_meteo.c)(0x62C42530)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\system_meteo.o --omf_browse .\objects\system_meteo.crf --depend .\objects\system_meteo.d)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+F (..\sys\system_gpio\system_gpio.c)(0x628F6E68)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\system_gpio.o --omf_browse .\objects\system_gpio.crf --depend .\objects\system_gpio.d)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+F (..\sys\system_usart\system_usart.c)(0x62C78C82)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\system_usart.o --omf_browse .\objects\system_usart.crf --depend .\objects\system_usart.d)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdlib.h)(0x60252374)
+F (..\hardware\MSI001\msi001.c)(0x62931837)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\msi001.o --omf_browse .\objects\msi001.crf --depend .\objects\msi001.d)
+I (..\hardware\MSI001\msi001.h)(0x6281FE8F)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\IIC\myiic.c)(0x6280568B)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\myiic.o --omf_browse .\objects\myiic.crf --depend .\objects\myiic.d)
+I (..\hardware\IIC\myiic.h)(0x624E8A70)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\QN8027\qn8027.c)(0x62C8EB20)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\qn8027.o --omf_browse .\objects\qn8027.crf --depend .\objects\qn8027.d)
+I (..\hardware\QN8027\qn8027.h)(0x628F659A)
+I (..\hardware\IIC\myiic.h)(0x624E8A70)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\Nixie_tube\Nixie_tube.c)(0x62C1A051)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\nixie_tube.o --omf_browse .\objects\nixie_tube.crf --depend .\objects\nixie_tube.d)
+I (..\hardware\Nixie_tube\Nixie_tube.h)(0x6291FB8F)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\KEYBOARD\keyboard.c)(0x62F9EBDC)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\keyboard.o --omf_browse .\objects\keyboard.crf --depend .\objects\keyboard.d)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\sys\delay\delay.h)(0x62428435)
+I (..\hardware\KEYBOARD\keyboard.h)(0x6291D253)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\hardware\Nixie_tube\Nixie_tube.h)(0x6291FB8F)
+F (..\hardware\OLED\oled.c)(0x62C7AEAF)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\oled.o --omf_browse .\objects\oled.crf --depend .\objects\oled.d)
+I (..\hardware\OLED\oled.h)(0x6291E1D4)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (..\hardware\OLED\oledfont.h)(0x5E8462EF)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\AT24Cxx\24cxx.c)(0x6290CBDF)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\24cxx.o --omf_browse .\objects\24cxx.crf --depend .\objects\24cxx.d)
+I (..\hardware\AT24Cxx\24cxx.h)(0x628B5869)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\hardware\LCD\lcd.c)(0x62C9AA42)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (..\hardware\LCD\lcd.h)(0x62F9AFE4)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)
+I (..\hardware\SYS\sys.h)(0x62808E55)
+I (..\sys\system_gpio\system_gpio.h)(0x6246ED37)
+I (..\sys\system_usart\system_usart.h)(0x62C722CF)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdlib.h)(0x60252374)
+I (..\hardware\LCD\lcdfont.h)(0x5F07DCC2)
+I (..\sys\delay\delay.h)(0x62428435)
+F (..\sys\delay\delay.c)(0x6246F87F)(-c --cpu Cortex-M0 --li -g -O1 --apcs=interwork --split_sections -I ..\cmsis\CMSIS\Include -I ..\cmsis\Device\meteo\Include -I ..\hello\Include -I ..\hardware\IIC -I ..\hardware\MSI001 -I ..\hardware\QN8027 -I ..\sys\delay -I ..\hardware\SYS -I ..\hardware\SYS -I ..\sys\system_gpio -I ..\sys\system_gpio -I ..\sys\cmsdk_drive -I ..\sys\system_usart -I ..\sys\system_usart -I ..\hardware\Nixie_tube -I ..\hardware\KEYBOARD -I ..\hardware\OLED -I ..\hardware\AT24Cxx -I ..\hardware\LCD-I.\RTE\_Target_1-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\SOFTWARE_PRUDUCT\MDKARM\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="537" -D_RTE_ -DARMCM0 -D_RTE_-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\sys\delay\delay.h)(0x62428435)
+I (..\cmsis\Device\meteo\Include\meteo.h)(0x62C81EFB)
+I (D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\cmsis\CMSIS\Include\core_cm0.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmInstr.h)(0x59D26CAF)
+I (..\cmsis\CMSIS\Include\core_cmFunc.h)(0x59D26CAF)
+I (..\cmsis\Device\meteo\Include\system_meteo.h)(0x62280442)

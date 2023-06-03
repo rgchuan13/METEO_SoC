@@ -1,0 +1,9 @@
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'C:\Keil\ARM\ARMCC\Bin'
+Build target 'Target 1'
+linking...
+Program Size: Code=600 RO-data=200 RW-data=8 ZI-data=864  
+FromELF: creating hex file...
+After Build - User command #1: fromelf -cvf .\Objects\hello.axf --vhx --32x1 -o hello.hex
+After Build - User command #2: fromelf -cvf .\Objects\hello.axf -o hello.txt
+".\Objects\hello.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:01

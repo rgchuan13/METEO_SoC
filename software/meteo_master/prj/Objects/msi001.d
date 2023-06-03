@@ -1,0 +1,10 @@
+.\objects\msi001.o: ..\hardware\MSI001\msi001.c
+.\objects\msi001.o: ..\hardware\MSI001\msi001.h
+.\objects\msi001.o: D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\msi001.o: ..\cmsis\Device\meteo\Include\meteo.h
+.\objects\msi001.o: D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\msi001.o: ..\cmsis\CMSIS\Include\core_cm0.h
+.\objects\msi001.o: ..\cmsis\CMSIS\Include\core_cmInstr.h
+.\objects\msi001.o: ..\cmsis\CMSIS\Include\core_cmFunc.h
+.\objects\msi001.o: ..\cmsis\Device\meteo\Include\system_meteo.h
+.\objects\msi001.o: ..\sys\delay\delay.h

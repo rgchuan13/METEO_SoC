@@ -1,0 +1,128 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.37.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: chuan rong, cqupt, LIC=21E4T-R5NJR-QDZKD-8QQ6J-Q06Q6-NPNQW
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.37.0.0
+Toolchain Path:  D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.37.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.6.0
+Target DLL:      CMSIS_AGDI.dll V1.33.12.0
+Dialog DLL:      TARMCM1.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+D:\workspace\soc\ADVANCED\meteorolite_advanced\software\meteo_master\prj\hello.uvprojx
+Project File Date:  08/15/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling main.c...
+..\hello\Include\LED.h(4): warning:  #1-D: last line of file ends without a newline
+  void    LED_off         (void);
+..\sys\delay\delay.h(6): warning:  #1295-D: Deprecated declaration delay_Init - give arg types
+  void delay_Init();
+..\sys\delay\delay.h(13): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\hardware\MSI001\MSI001.h(29): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\sys\system_gpio\system_gpio.h(51): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\sys\system_usart\system_usart.h(25): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\hardware\SYS\sys.h(12): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\hardware\QN8027\qn8027.h(10): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\hardware\Nixie_tube\Nixie_tube.h(9): warning:  #1295-D: Deprecated declaration SEG_Clear_all - give arg types
+  void SEG_Clear_all();
+..\hardware\Nixie_tube\Nixie_tube.h(11): warning:  #1295-D: Deprecated declaration Standby - give arg types
+  void Standby();
+..\hardware\Nixie_tube\Nixie_tube.h(12): warning:  #1295-D: Deprecated declaration STOP - give arg types
+  void STOP();
+..\hardware\KEYBOARD\keyboard.h(8): warning:  #1295-D: Deprecated declaration GetKEYNUM - give arg types
+  u32 GetKEYNUM();
+..\hardware\KEYBOARD\keyboard.h(10): warning:  #1295-D: Deprecated declaration Type_NUM - give arg types
+  u32 Type_NUM();
+..\hardware\KEYBOARD\keyboard.h(15): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\hardware\OLED\oled.h(46): warning:  #1295-D: Deprecated declaration Picture - give arg types
+  void Picture();
+..\hardware\OLED\oled.h(47): warning:  #1295-D: Deprecated declaration OLED_IIC_Start - give arg types
+  void OLED_IIC_Start();
+..\hardware\OLED\oled.h(48): warning:  #1295-D: Deprecated declaration OLED_IIC_Stop - give arg types
+  void OLED_IIC_Stop();
+..\hardware\OLED\oled.h(53): warning:  #1295-D: Deprecated declaration OLED_IIC_Wait_Ack - give arg types
+  void OLED_IIC_Wait_Ack();
+..\hello\Source\main.c(16): warning:  #1295-D: Deprecated declaration STORE - give arg types
+  void STORE();
+..\hello\Source\main.c(17): warning:  #1295-D: Deprecated declaration TAKE - give arg types
+  void TAKE();
+..\hello\Source\main.c(18): warning:  #1295-D: Deprecated declaration Search - give arg types
+  void Search();
+..\hello\Source\main.c(20): warning:  #1295-D: Deprecated declaration Show_Maps - give arg types
+  void Show_Maps();
+..\hello\Source\main.c(21): warning:  #1295-D: Deprecated declaration StoreFM_Display - give arg types
+  void StoreFM_Display();
+..\hello\Source\main.c(22): warning:  #1295-D: Deprecated declaration VOLUME - give arg types
+  void VOLUME();
+..\hello\Source\main.c(23): warning:  #1295-D: Deprecated declaration VOLUME_Display - give arg types
+  void VOLUME_Display();
+..\hello\Source\main.c(34): warning:  #177-D: variable "i"  was declared but never referenced
+      u32 i=0x0,n=1,a;
+..\hello\Source\main.c(34): warning:  #177-D: variable "n"  was declared but never referenced
+      u32 i=0x0,n=1,a;
+..\hello\Source\main.c(34): warning:  #177-D: variable "a"  was declared but never referenced
+      u32 i=0x0,n=1,a;
+..\hello\Source\main.c(35): warning:  #177-D: variable "value"  was declared but never referenced
+      u16 value=0;
+..\hello\Source\main.c(36): warning:  #177-D: variable "c"  was declared but never referenced
+  	int c=1,s=0;
+..\hello\Source\main.c(307): warning:  #177-D: variable "i"  was declared but never referenced
+     u8 i;
+..\hello\Source\main.c(350): warning:  #177-D: variable "data8_1"  was declared but never referenced
+  	u8 data8_1,data8_2,data8_3,data8_4;
+..\hello\Source\main.c(350): warning:  #177-D: variable "data8_2"  was declared but never referenced
+  	u8 data8_1,data8_2,data8_3,data8_4;
+..\hello\Source\main.c(350): warning:  #177-D: variable "data8_3"  was declared but never referenced
+  	u8 data8_1,data8_2,data8_3,data8_4;
+..\hello\Source\main.c(350): warning:  #177-D: variable "data8_4"  was declared but never referenced
+  	u8 data8_1,data8_2,data8_3,data8_4;
+..\hello\Source\main.c: 35 warnings, 0 errors
+linking...
+Program Size: Code=15576 RO-data=15812 RW-data=56 ZI-data=1896  
+FromELF: creating hex file...
+After Build - User command #1: fromelf -cvf .\Objects\hello.axf --vhx --32x1 -o hello.hex
+After Build - User command #2: fromelf -cvf .\Objects\hello.axf -o hello.txt
+".\Objects\hello.axf" - 0 Error(s), 35 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/_Target_1
+  D:/SOFTWARE_PRUDUCT/MDKARM/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+  D:/SOFTWARE_PRUDUCT/MDKARM/Packs/ARM/CMSIS/5.9.0/Device/ARM/ARMCM0/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

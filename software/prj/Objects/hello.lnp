@@ -1,0 +1,20 @@
+--cpu Cortex-M0
+".\objects\startup_meteo.o"
+".\objects\led.o"
+".\objects\main.o"
+".\objects\system_meteo.o"
+".\objects\system_gpio.o"
+".\objects\system_usart.o"
+".\objects\msi001.o"
+".\objects\myiic.o"
+".\objects\qn8027.o"
+".\objects\nixie_tube.o"
+".\objects\keyboard.o"
+".\objects\oled.o"
+".\objects\24cxx.o"
+".\objects\lcd.o"
+".\objects\delay.o"
+--strict --scatter ".\Objects\hello.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\hello.map" -o .\Objects\hello.axf

@@ -1,0 +1,9 @@
+.\objects\system_usart.o: ..\sys\system_usart\system_usart.c
+.\objects\system_usart.o: ..\sys\system_usart\system_usart.h
+.\objects\system_usart.o: ..\cmsis\Device\meteo\Include\meteo.h
+.\objects\system_usart.o: D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_usart.o: ..\cmsis\CMSIS\Include\core_cm0.h
+.\objects\system_usart.o: ..\cmsis\CMSIS\Include\core_cmInstr.h
+.\objects\system_usart.o: ..\cmsis\CMSIS\Include\core_cmFunc.h
+.\objects\system_usart.o: ..\cmsis\Device\meteo\Include\system_meteo.h
+.\objects\system_usart.o: D:\SOFTWARE_PRUDUCT\MDKARM\ARM\ARMCC\Bin\..\include\stdlib.h
